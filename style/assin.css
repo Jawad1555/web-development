@@ -1,0 +1,30 @@
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-variation-settings: "wdth" 100; 
+}
+.btn{background-color: #4E47FF;border-radius: 10px;padding: 12px 36px;font-size: medium;
+color: white;font-we}
+.jim{
+  color: #4E47FF;font-size: 30px
+  ;font-weight: 600;
+}
+nav ol li{list-style: none;
+justify-content: space-between;margin: 50px 150px}
+nav ol{display: flex;align-items: center;justify-content: space-around;}
+.banner{
+    font-size: 65px;
+    font-weight: bold;
+    color: #252432;
+    width: 905px;
+   margin: 0 auto;}
+  .jimo{text-align: center;
+} 
+
+.header{
+    background-image: url(../images/Hero-bg.png);
+ background-image height: 500px;
+
+
+}
